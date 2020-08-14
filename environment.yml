@@ -1,12 +1,9 @@
 name: jlabtutorial
 channels:
-  - damianavila82
-  - mcs07
-  - mordred-descriptor
+ 
   - anaconda
-  - conda-forge
-  - rmg
-  - defaults
+
+
 dependencies:
   - python
   - numpy
